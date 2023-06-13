@@ -4,6 +4,8 @@ This repository is the work from, and for, the cs439 midterm: *"Twitter Data Ana
 [The course](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-439-introduction-to-data-science) 
 was taken during Fall 2022  
 
+*(The data used in the project was scraped before Elon Musks purchase of Twitter)*   
+
 ## What has been removed 
 When assigned, this assignment was to be done by either:  
 
@@ -12,20 +14,21 @@ When assigned, this assignment was to be done by either:
 
 This project was done individually 
 -- part 1 and 7, plus misc. blocks (such as the "insert name" block) -- 
-have been removed to focus on parts 2 - 6. 
+have been removed to focus on parts 2 - 6.     
 
 ---
 
 # Description   
 The notebook imports a csv of Trumps Tweets (Jan. 1, 2016 - Oct. 16, 2018).  
-Then the following actions, (without any order, nor equal amount of times): 
+Then the following actions were *taken: 
 
 - Clean data 
 - Reformat/alter the data   
 - Make new dataframes and series from that data
 - Present data (using print, show(), or graphing library(s) such as seaborn)  
 
-*(The data collected was scraped before Elon Musks purchase of Twitter).*
+**The steps above were done without a particular order, 
+nor equal amount of times*    
 
 ---
 
